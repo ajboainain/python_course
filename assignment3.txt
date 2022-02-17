@@ -1,0 +1,6 @@
+fred,cs120,harvard,1234.5
+
+test,cs,ye,123
+
+jack,cs450,umb,4500.2
+john,umb 444,umb,5432.1
