@@ -34,7 +34,7 @@ students = []
 
 
 def process_data():
-    file = open('assignment13.csv', 'w')
+    file = open('assignment13.csv', 'a')
 
     writer = csv.writer(file)
     for student in students:
