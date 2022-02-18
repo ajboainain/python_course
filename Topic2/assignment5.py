@@ -29,5 +29,3 @@ class Patient():
 
 
 p = Patient("john", "123", "8833221199", "headache")
-
-print(p)
